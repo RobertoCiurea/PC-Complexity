@@ -3,7 +3,16 @@
 Website dedicat persoanelor care vor sa afle mai mult despre lumea computerelor personale si evolutia acestora de-a lungul timpului.
 Continut:
 Home page - o scurta prezentare a computerelor personale si o descriere a evolutiei lor istorice;
-Ghid - ghid complet pentru construirea unui computer personal (prezentarea informatiilor necesare pentru alegerea componentelor: microprocesor, placa de baza, placa video, memoria RAM, stocare, sursa de alimentare, carcasa)
+
+Ghid - ghid complet pentru construirea unui computer personal (prezentarea informatiilor necesare pentru alegerea componentelor:
+microprocesor, 
+placa de baza, 
+placa video, 
+memoria RAM, 
+stocare, 
+sursa de alimentare, 
+carcasa
+
 Prezentarea detaliata cu informatii exacte a componentelor + progresul istoric al acestora.
 
 Totodata, websiteul dispune de informatii si in limba engleza.
